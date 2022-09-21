@@ -1,0 +1,35 @@
+/* Created by: Claire Bedrossian
+* Created on: Sep 2022
+* This CSS file defines the style for index2.html ICS2O-Unit1-04-HTML-CSS
+*/
+body {
+background-color: #add1ff;
+}
+h1 {
+background-color: rgb(1, 17, 50);
+color: hsl(300, 69%, 95%);
+padding: 40px;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif
+}
+p {
+background-color: #f9f9f6;
+font-family: Arial, Helvetica, sans-serif
+}
+ul {
+color: beige;
+font-family: Arial, Helvetica, sans-serif
+}
+ul li::before {
+content: "✅";
+}
+table {
+border: solid thin;
+font-family: Arial, Helvetica, sans-serif
+}
+th {
+height: 2rem;
+background: #fda3ff;
+border: 1px solid white;
+text-align: left;
+}
